@@ -1,0 +1,12 @@
+{
+  "mockReplacements": [
+    {
+      "id": "1",
+      "iconId": "ExperimentOutlined",
+      "title": "To dev",
+      "from": "localhost:9090",
+      "to": "www.ignite.com",
+      "openInNewTab": true
+    }
+  ]
+}
