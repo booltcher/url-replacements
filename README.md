@@ -1,4 +1,4 @@
-# Ignite URL switch
+# URL switch
 
 ## URL replacement
 - Prod & Env interchange via patterns
@@ -7,4 +7,4 @@
 
 ## Property bookmark
 > store locally
-- name bookmark
+- still in progress
